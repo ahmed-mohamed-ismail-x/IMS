@@ -1,0 +1,9 @@
+D:\POS\SMSystemProject-master\SMSystem.Core\bin\Debug\netcoreapp3.1\SMSystem.Core.deps.json
+D:\POS\SMSystemProject-master\SMSystem.Core\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+D:\POS\SMSystemProject-master\SMSystem.Core\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+D:\POS\SMSystemProject-master\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\POS\SMSystemProject-master\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.AssemblyInfoInputs.cache
+D:\POS\SMSystemProject-master\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.AssemblyInfo.cs
+D:\POS\SMSystemProject-master\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.csproj.CoreCompileInputs.cache
+D:\POS\SMSystemProject-master\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.dll
+D:\POS\SMSystemProject-master\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.pdb

@@ -1,0 +1,16 @@
+D:\POS\SMSystemProject-master\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.deps.json
+D:\POS\SMSystemProject-master\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.json
+D:\POS\SMSystemProject-master\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.dev.json
+D:\POS\SMSystemProject-master\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+D:\POS\SMSystemProject-master\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+D:\POS\SMSystemProject-master\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+D:\POS\SMSystemProject-master\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+D:\POS\SMSystemProject-master\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.AssemblyReference.cache
+D:\POS\SMSystemProject-master\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\POS\SMSystemProject-master\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfoInputs.cache
+D:\POS\SMSystemProject-master\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfo.cs
+D:\POS\SMSystemProject-master\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CoreCompileInputs.cache
+D:\POS\SMSystemProject-master\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.B47EDB64.Up2Date
+D:\POS\SMSystemProject-master\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.dll
+D:\POS\SMSystemProject-master\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.pdb
+D:\POS\SMSystemProject-master\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.genruntimeconfig.cache

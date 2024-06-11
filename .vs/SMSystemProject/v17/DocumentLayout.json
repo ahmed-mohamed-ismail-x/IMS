@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\POS\\SMSystemProject-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|d:\\pos\\smsystemproject-master\\smsystem\\gui\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\gui\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|d:\\pos\\smsystemproject-master\\smsystem\\gui\\startform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\gui\\startform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|d:\\pos\\smsystemproject-master\\smsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|D:\\POS\\SMSystemProject-master\\smsystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|d:\\pos\\smsystemproject-master\\smsystem\\code\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\code\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|d:\\pos\\smsystemproject-master\\smsystem\\code\\containerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\code\\containerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|d:\\pos\\smsystemproject-master\\smsystem\\gui\\storesgui\\categoryaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\gui\\storesgui\\categoryaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351B3372-2FD0-49AB-99A7-6C62D2848978}|SMSystem.Data\\SMSystem.Data.csproj|d:\\pos\\smsystemproject-master\\smsystem.data\\idatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351B3372-2FD0-49AB-99A7-6C62D2848978}|SMSystem.Data\\SMSystem.Data.csproj|solutionrelative:smsystem.data\\idatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|d:\\pos\\smsystemproject-master\\smsystem\\gui\\othergui\\loadinguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\gui\\othergui\\loadinguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|d:\\pos\\smsystemproject-master\\smsystem\\gui\\othergui\\loadinguser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\gui\\othergui\\loadinguser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|d:\\pos\\smsystemproject-master\\smsystem\\gui\\storesgui\\categoryaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\gui\\storesgui\\categoryaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|d:\\pos\\smsystemproject-master\\smsystem\\gui\\storesgui\\storeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\gui\\storesgui\\storeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|D:\\POS\\SMSystemProject-master\\smsystem\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|d:\\pos\\smsystemproject-master\\smsystem\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|D:\\POS\\SMSystemProject-master\\smsystem\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|D:\\POS\\SMSystemProject-master\\smsystem\\code\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\code\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC955B59-4B20-4A4D-A807-B7C26CBD4F9A}|SMSystem.Core\\SMSystem.Core.csproj|D:\\POS\\SMSystemProject-master\\smsystem.core\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC955B59-4B20-4A4D-A807-B7C26CBD4F9A}|SMSystem.Core\\SMSystem.Core.csproj|solutionrelative:smsystem.core\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC955B59-4B20-4A4D-A807-B7C26CBD4F9A}|SMSystem.Core\\SMSystem.Core.csproj|D:\\POS\\SMSystemProject-master\\smsystem.core\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC955B59-4B20-4A4D-A807-B7C26CBD4F9A}|SMSystem.Core\\SMSystem.Core.csproj|solutionrelative:smsystem.core\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351B3372-2FD0-49AB-99A7-6C62D2848978}|SMSystem.Data\\SMSystem.Data.csproj|D:\\POS\\SMSystemProject-master\\smsystem.data\\efsqlserver\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351B3372-2FD0-49AB-99A7-6C62D2848978}|SMSystem.Data\\SMSystem.Data.csproj|solutionrelative:smsystem.data\\efsqlserver\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|D:\\POS\\SMSystemProject-master\\smsystem\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|D:\\POS\\SMSystemProject-master\\smsystem\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351B3372-2FD0-49AB-99A7-6C62D2848978}|SMSystem.Data\\SMSystem.Data.csproj|D:\\POS\\SMSystemProject-master\\smsystem.data\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{351B3372-2FD0-49AB-99A7-6C62D2848978}|SMSystem.Data\\SMSystem.Data.csproj|solutionrelative:smsystem.data\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|D:\\POS\\SMSystemProject-master\\smsystem\\gui\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\gui\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|D:\\POS\\SMSystemProject-master\\smsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1928DEE6-66A8-4F26-B442-B7424D41951A}|SMSystem\\SMSystem.csproj|solutionrelative:smsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartForm.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\StartForm.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Gui\\StartForm.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\StartForm.cs",
+              "RelativeToolTip": "SMSystem\\Gui\\StartForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:40:28.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartForm.Designer.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\StartForm.Designer.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Gui\\StartForm.Designer.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\StartForm.Designer.cs",
+              "RelativeToolTip": "SMSystem\\Gui\\StartForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:17:35.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Program.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Program.cs",
+              "RelativeToolTip": "SMSystem\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:16:12.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Code\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Code\\DependencyInjection.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Code\\DependencyInjection.cs",
+              "RelativeToolTip": "SMSystem\\Code\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:57:06.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContainerConfig.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Code\\ContainerConfig.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Code\\ContainerConfig.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Code\\ContainerConfig.cs",
+              "RelativeToolTip": "SMSystem\\Code\\ContainerConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:53:55.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDataHelper.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem.Data\\IDataHelper.cs",
+              "RelativeDocumentMoniker": "SMSystem.Data\\IDataHelper.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem.Data\\IDataHelper.cs",
+              "RelativeToolTip": "SMSystem.Data\\IDataHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:50:59.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoadingUser.Designer.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\OtherGui\\LoadingUser.Designer.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Gui\\OtherGui\\LoadingUser.Designer.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\OtherGui\\LoadingUser.Designer.cs",
+              "RelativeToolTip": "SMSystem\\Gui\\OtherGui\\LoadingUser.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:50:33.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoadingUser.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\OtherGui\\LoadingUser.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Gui\\OtherGui\\LoadingUser.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\OtherGui\\LoadingUser.cs",
+              "RelativeToolTip": "SMSystem\\Gui\\OtherGui\\LoadingUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:50:26.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryAddForm.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\StoresGui\\CategoryAddForm.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Gui\\StoresGui\\CategoryAddForm.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\StoresGui\\CategoryAddForm.cs",
+              "RelativeToolTip": "SMSystem\\Gui\\StoresGui\\CategoryAddForm.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAewBsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:37:52.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryAddForm.cs [Design]",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\StoresGui\\CategoryAddForm.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Gui\\StoresGui\\CategoryAddForm.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\StoresGui\\CategoryAddForm.cs [Design]",
+              "RelativeToolTip": "SMSystem\\Gui\\StoresGui\\CategoryAddForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:37:44.898Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StoreUserControl.cs [Design]",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\StoresGui\\StoreUserControl.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Gui\\StoresGui\\StoreUserControl.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\StoresGui\\StoreUserControl.cs [Design]",
+              "RelativeToolTip": "SMSystem\\Gui\\StoresGui\\StoreUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:37:18.108Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Main.Designer.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Main.Designer.cs",
+              "RelativeToolTip": "SMSystem\\Main.Designer.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:30:46.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Code\\MainClass.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Code\\MainClass.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Code\\MainClass.cs",
+              "RelativeToolTip": "SMSystem\\Code\\MainClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:27:36.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Main.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Main.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Main.cs",
+              "RelativeToolTip": "SMSystem\\Main.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAIA1wFgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:27:17.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Main.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Main.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Main.cs [Design]",
+              "RelativeToolTip": "SMSystem\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:19:33.261Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Income.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem.Core\\Income.cs",
+              "RelativeDocumentMoniker": "SMSystem.Core\\Income.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem.Core\\Income.cs",
+              "RelativeToolTip": "SMSystem.Core\\Income.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:47:15.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem.Core\\Customers.cs",
+              "RelativeDocumentMoniker": "SMSystem.Core\\Customers.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem.Core\\Customers.cs",
+              "RelativeToolTip": "SMSystem.Core\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:47:00.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem.Data\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SMSystem.Data\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem.Data\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SMSystem.Data\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T17:55:54.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Startup.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Startup.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Startup.cs",
+              "RelativeToolTip": "SMSystem\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:51:19.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Gui\\SettingsForm.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Gui\\SettingsForm.cs",
+              "RelativeToolTip": "SMSystem\\Gui\\SettingsForm.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAwwOkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:50:31.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "SMSystem\\Properties\\Settings.Designer.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "SMSystem\\Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:50:17.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\App.config",
+              "RelativeDocumentMoniker": "SMSystem\\App.config",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\App.config",
+              "RelativeToolTip": "SMSystem\\App.config",
+              "ViewState": "AQIAAAEAAAAAAAAAAABBwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-09T17:49:59.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem.Data\\EFSqlServer\\DBContext.cs",
+              "RelativeDocumentMoniker": "SMSystem.Data\\EFSqlServer\\DBContext.cs",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem.Data\\EFSqlServer\\DBContext.cs",
+              "RelativeToolTip": "SMSystem.Data\\EFSqlServer\\DBContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:43:49.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\POS\\SMSystemProject-master\\SMSystem\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "SMSystem\\Properties\\Settings.settings",
+              "ToolTip": "D:\\POS\\SMSystemProject-master\\SMSystem\\Properties\\Settings.settings",
+              "RelativeToolTip": "SMSystem\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-06-09T17:40:08.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

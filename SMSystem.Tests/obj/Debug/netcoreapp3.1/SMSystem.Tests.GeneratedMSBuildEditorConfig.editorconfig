@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SMSystem.Tests
+build_property.ProjectDir = D:\POS\SMSystemProject-master\SMSystem.Tests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
