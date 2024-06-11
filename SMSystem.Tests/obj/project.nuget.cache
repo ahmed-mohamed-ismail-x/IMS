@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3GT+CkAXHi7zQma3SkwoRt3OIaNoRxy/6fcujygsF0p9ZgLfyMBuji6P7tlCL34GWaN9r1Xd5NhphsrwbVeMdg==",
+  "dgSpecHash": "mqTk6jWZX2Ne1zCJY1+13Omc736w+opzW+j/wRpUElpJ5Acl/Ngzm9SazsA/SeJYo+l0m4uAFt34TE71jWNpow==",
   "success": true,
-  "projectFilePath": "D:\\POS\\SMSystemProject-master\\SMSystem.Tests\\SMSystem.Tests.csproj",
+  "projectFilePath": "D:\\IMS\\SMSystem.Tests\\SMSystem.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\closedxml\\0.96.0\\closedxml.0.96.0.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

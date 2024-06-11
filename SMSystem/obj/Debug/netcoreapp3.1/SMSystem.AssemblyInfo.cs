@@ -18,7 +18,7 @@ using System.Reflection;
     "من المؤسسات الحكومية العراقية\nتم التطوير من قبل المهندس صفاء جاسم\nهذه النسخة هي " +
     "متاحة للتطوير على قناة تكنو يو")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cdb7ec1971dd4e758cfa5b5f62edb9915bb41ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("مخزن")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SMSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

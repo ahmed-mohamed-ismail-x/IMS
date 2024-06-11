@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cmFpRKpFbyf8tKz+c1ncNuvqhzbdYVVMlsm8wtf+kLxwvQSrAQpIQny67NIKQQDaRRxNMpe261gomNgrA5mhNQ==",
+  "dgSpecHash": "FIt0GCcMDuva4SZeBw/dhe1WLkwZOV1CVoU2/mkG2I1sGCTpOpfq+ngWYvg66Mc6GZW2yA3YPi1JU6VB+HVZWA==",
   "success": true,
-  "projectFilePath": "D:\\POS\\SMSystemProject-master\\SMSystem\\SMSystem.csproj",
+  "projectFilePath": "D:\\IMS\\SMSystem\\SMSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\closedxml\\0.96.0\\closedxml.0.96.0.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",

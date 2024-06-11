@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tRkE1xsOtf9h8u0m6m1CBfqhMO308K5drpfWWD/2l62Owuh03/qW/lXVW5OyaXOfUVgc4ttBJMHTrLKqTB2GLQ==",
+  "dgSpecHash": "FrUkj0mubfR1I89nAOEV1Dzx69wT9mPr5JyHLMYWAOlkvuitfGxVSJ048kJBylDN0L5kZerP8Etzf+6A9uVBKg==",
   "success": true,
-  "projectFilePath": "D:\\POS\\SMSystemProject-master\\SMSystem.Data\\SMSystem.Data.csproj",
+  "projectFilePath": "D:\\IMS\\SMSystem.Data\\SMSystem.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

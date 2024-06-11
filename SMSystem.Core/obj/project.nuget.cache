@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w7+8V6buPWZg9Lsgf6YNQNFl6i0voh+Sybu8OQmS4hkTK/PMqcBt08FHPqmfTKrRlebWA6HMWAEOd9AgEyECRg==",
+  "dgSpecHash": "7EgKBCPpPJ+4vhJmrcdQuDs7uc+5tTN0VkmBZROoBYC/H2grnhwQiUNN8KpPCydK86zbT0NVM7+t48RMGIFG4g==",
   "success": true,
-  "projectFilePath": "D:\\POS\\SMSystemProject-master\\SMSystem.Core\\SMSystem.Core.csproj",
+  "projectFilePath": "D:\\IMS\\SMSystem.Core\\SMSystem.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

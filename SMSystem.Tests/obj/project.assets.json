@@ -9075,11 +9075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\POS\\SMSystemProject-master\\SMSystem.Tests\\SMSystem.Tests.csproj",
+      "projectUniqueName": "D:\\IMS\\SMSystem.Tests\\SMSystem.Tests.csproj",
       "projectName": "SMSystem.Tests",
-      "projectPath": "D:\\POS\\SMSystemProject-master\\SMSystem.Tests\\SMSystem.Tests.csproj",
+      "projectPath": "D:\\IMS\\SMSystem.Tests\\SMSystem.Tests.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "D:\\POS\\SMSystemProject-master\\SMSystem.Tests\\obj\\",
+      "outputPath": "D:\\IMS\\SMSystem.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9096,14 +9096,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\POS\\SMSystemProject-master\\SMSystem.Core\\SMSystem.Core.csproj": {
-              "projectPath": "D:\\POS\\SMSystemProject-master\\SMSystem.Core\\SMSystem.Core.csproj"
+            "D:\\IMS\\SMSystem.Core\\SMSystem.Core.csproj": {
+              "projectPath": "D:\\IMS\\SMSystem.Core\\SMSystem.Core.csproj"
             },
-            "D:\\POS\\SMSystemProject-master\\SMSystem.Data\\SMSystem.Data.csproj": {
-              "projectPath": "D:\\POS\\SMSystemProject-master\\SMSystem.Data\\SMSystem.Data.csproj"
+            "D:\\IMS\\SMSystem.Data\\SMSystem.Data.csproj": {
+              "projectPath": "D:\\IMS\\SMSystem.Data\\SMSystem.Data.csproj"
             },
-            "D:\\POS\\SMSystemProject-master\\SMSystem\\SMSystem.csproj": {
-              "projectPath": "D:\\POS\\SMSystemProject-master\\SMSystem\\SMSystem.csproj"
+            "D:\\IMS\\SMSystem\\SMSystem.csproj": {
+              "projectPath": "D:\\IMS\\SMSystem\\SMSystem.csproj"
             }
           }
         }

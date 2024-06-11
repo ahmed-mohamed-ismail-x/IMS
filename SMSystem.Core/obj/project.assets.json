@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\POS\\SMSystemProject-master\\SMSystem.Core\\SMSystem.Core.csproj",
+      "projectUniqueName": "D:\\IMS\\SMSystem.Core\\SMSystem.Core.csproj",
       "projectName": "SMSystem.Core",
-      "projectPath": "D:\\POS\\SMSystemProject-master\\SMSystem.Core\\SMSystem.Core.csproj",
+      "projectPath": "D:\\IMS\\SMSystem.Core\\SMSystem.Core.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "D:\\POS\\SMSystemProject-master\\SMSystem.Core\\obj\\",
+      "outputPath": "D:\\IMS\\SMSystem.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",

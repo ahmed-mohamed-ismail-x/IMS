@@ -6095,11 +6095,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\POS\\SMSystemProject-master\\SMSystem.Data\\SMSystem.Data.csproj",
+      "projectUniqueName": "D:\\IMS\\SMSystem.Data\\SMSystem.Data.csproj",
       "projectName": "SMSystem.Data",
-      "projectPath": "D:\\POS\\SMSystemProject-master\\SMSystem.Data\\SMSystem.Data.csproj",
+      "projectPath": "D:\\IMS\\SMSystem.Data\\SMSystem.Data.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "D:\\POS\\SMSystemProject-master\\SMSystem.Data\\obj\\",
+      "outputPath": "D:\\IMS\\SMSystem.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6116,8 +6116,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\POS\\SMSystemProject-master\\SMSystem.Core\\SMSystem.Core.csproj": {
-              "projectPath": "D:\\POS\\SMSystemProject-master\\SMSystem.Core\\SMSystem.Core.csproj"
+            "D:\\IMS\\SMSystem.Core\\SMSystem.Core.csproj": {
+              "projectPath": "D:\\IMS\\SMSystem.Core\\SMSystem.Core.csproj"
             }
           }
         }
